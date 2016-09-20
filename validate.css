@@ -1,0 +1,36 @@
+﻿body{
+ font-family:Arial;
+ font-size:0.8em;
+ color:#000
+}
+label{
+ float:left;
+ width:150px;
+ font-weight:bold;
+}
+input,select{
+ margin-bottom:3px;
+}
+.button{
+ font-size:2em;
+}
+.left{
+ margin-left:150px;
+}
+.txtFormLegend{
+ color:#777;
+ font-weight:bold;
+ font-size:largre; 
+}
+.txtSmall{
+ color:#999;
+ font-size:smaller;
+}
+.hidden{
+ display:none;
+}
+.error{
+ display:block;
+ margin-left:150px;
+ color:#ff0000;
+}
